@@ -119,7 +119,6 @@ Distributed under the MIT License. See `LICENSE` for more information. (Note: Yo
 
 ## Contact
 
-Your Name / Project Link - [optional contact information]
+Siddhi Rajeshkumar Pandya
 
 ---
-*This README was generated with assistance from an AI.*
