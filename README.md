@@ -121,4 +121,29 @@ Distributed under the MIT License. See `LICENSE` for more information. (Note: Yo
 
 Siddhi Rajeshkumar Pandya
 
+## Screenshots
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3aba3594-3051-4739-9958-5ba7e39ba903" width="250" alt="Screenshot 1" />
+<img src="https://github.com/user-attachments/assets/17a88e5f-51ad-49dc-adee-d6e21fca85c6" width="250" alt="Screenshot 2" />
+<img src="https://github.com/user-attachments/assets/c328f54d-7d9d-4248-b409-d6ab5f60861b" width="250" alt="Screenshot 3" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/77fd32d7-87ea-44fd-b2fe-0453739f6b31" width="250" alt="Screenshot 4" />
+<img src="https://github.com/user-attachments/assets/180b6d0a-1d6c-4872-901e-770d0b2b1c9c" width="250" alt="Screenshot 5" />
+<img src="https://github.com/user-attachments/assets/5265fddf-bbbc-4f53-bcf8-6f781a1cf817" width="250" alt="Screenshot 6" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c7b3ca96-e9c9-42e3-81a8-2f3c1a67b3cf" width="250" alt="Screenshot 7" />
+<img src="https://github.com/user-attachments/assets/f5228591-7582-4afb-a977-b78b6f3047b5" width="250" alt="Screenshot 8" />
+<img src="https://github.com/user-attachments/assets/3220e43a-e12f-4c2c-b900-0312e6ad5302" width="250" alt="Screenshot 9" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b2a6ada5-5e4f-4f28-8965-988419721109" width="250" alt="Screenshot 10" />
+<img src="https://github.com/user-attachments/assets/fbc03eac-2ec7-4b10-ab52-ecd021f1a819" width="250" alt="Screenshot 11" />
+</div>
+
 ---
